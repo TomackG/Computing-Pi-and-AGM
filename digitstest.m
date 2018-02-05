@@ -1,3 +1,5 @@
+%The following calculates Pi really quickly using the arithmetic geometric mean
+
 a=1; %Sets a as 1. 
 b=1/sqrt(2); %Sets b as 1.
 i=1; %Sets i as 1.
