@@ -1,3 +1,5 @@
+%Routine to generate plot for Figure 2 of README.pdf
+
 for i=2:n %Runs loop from 2 to n
     su=0; %Initialises sum as zero
     for j=2:i %Runs over entries in third column of matrix x
